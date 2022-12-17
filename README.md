@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bhavyasrij
-- 👀 I’m coding, reading and writing
+- 👀 I like coding, reading and writing
 - 🌱 I’m learning computer science specilization with AI & ML
 
 <!---
