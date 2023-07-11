@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhavyasrij
 - 👀 I like coding, reading and writing
-- 🌱 I’m learning computer science specilization with AI & ML
+- 🌱 Currently pursuing computer science engineering specilization with AI & ML
 
 <!---
 bhavyasj/bhavyasj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
